@@ -31,9 +31,6 @@ const useFetch = (endpoint, query) => {
     }
   };
 
-  console.log(data);
-
-
   useEffect(() => {
     fetchData();
   }, []);
