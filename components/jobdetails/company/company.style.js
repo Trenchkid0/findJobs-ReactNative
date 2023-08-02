@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
     marginVertical: SIZES.medium,
     justifyContent: "center",
     alignItems: "center",
+  
   },
   logoBox: {
     width: 80,

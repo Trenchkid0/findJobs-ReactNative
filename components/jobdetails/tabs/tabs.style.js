@@ -5,7 +5,7 @@ import { COLORS, SHADOWS, SIZES } from "../../../constants";
 const styles = StyleSheet.create({
   container: {
     marginTop: SIZES.small,
-    marginBottom: SIZES.small / 2,
+    marginBottom: SIZES.small / 8,
   },
   btn: (name, activeTab) => ({
     paddingVertical: SIZES.medium,
